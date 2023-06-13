@@ -1,0 +1,10 @@
+* minilem
+
+The minimal self-modifying Common Lisp editor
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/gmasching/minilem.git   |
+| commit  | 8109e53  |
+| systems | minilem |
+|---------+-------------------------------------------|
+
